@@ -1,8 +1,8 @@
 # Group_Activity
 This is a Repository created by:
-###### Akshay Kumar - Student 1
-###### Vinamra Mathur [A0044245]- Student 2
-###### Nitin Kumar - Student 3
+#### Akshay Kumar - Student 1
+#### Vinamra Mathur [A0044245]- Student 2
+#### Nitin Kumar - Student 3
 
 Features added by Student 1
 1) Addition (+)
