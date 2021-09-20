@@ -2,7 +2,7 @@
 This is a Repository created by:
 #### Akshay Kumar [A00457310] - Student 1
 #### Vinamra Mathur [A0044245]- Student 2
-#### Nitin Kumar - Student 3
+#### Nitin Kumar  [A00455853] - Student 3
 
 Features added by Student 1
 1) Addition (+)
