@@ -16,6 +16,6 @@ Features added by Student 2
 
 Features added by Student 3
 1) Multiplication (*)
-2) Min-Math.max()
+2) Max-Math.max()
 3) Pow-Math.Pow()
 
